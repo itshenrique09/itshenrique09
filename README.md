@@ -7,8 +7,6 @@ I am a computer engineering student!
 
 ## 🤝 Where can you find me:
 <a href="https://www.linkedin.com/in/henrique-pereira-682a77242/"><img align="left" src="https://github.com/itshenrique09/itshenrique09/blob/main/Imagem/linkedin.png " alt="Henrique Pereira | LinkedIn" width="35px"/></a>
-</br>
-</br>
 
 ## 💼 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
